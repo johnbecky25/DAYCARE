@@ -3,6 +3,7 @@
 // how to import//
 
 Download the zip file.
+
 Download and install XAMPP
 Run the XAMPP control panel and start MySQL and Apache
 Go to C:\xampp\htdocs and extract the downloaded zip file (BDCMS) inside the folder
